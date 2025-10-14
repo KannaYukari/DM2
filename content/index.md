@@ -12,6 +12,7 @@ Regras da brincadeira:
 
 ## Gêneros
 - Semana 1: Eletrônica
+- Semana 2: Rock
 
 ## Jogadores
 - [Kanna](Jogadores/Kanna.md)
