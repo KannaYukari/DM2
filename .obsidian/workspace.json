@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Jogadores/Octavus.md",
+                "file": "content/Jogadores/Kanna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Octavus"
+              "title": "Kanna"
             }
           }
         ]
@@ -169,13 +169,24 @@
   },
   "active": "c5ff5e1ec4d9b976",
   "lastOpenFiles": [
+    "Grimoire of Crimson.md",
     "content/Jogadores/Kanna.md",
-    "Floor of Lava.md",
-    "Ice.md",
+    "Team Grimoire.md",
     "content/Jogadores/Charlotte.md",
+    "Go (Xtayalive 2).md",
+    "Kanii.md",
+    "content/Músicas/Go.md",
+    "content/Jogadores/Octavus.md",
+    "content/Autores/The Chemical Brothers.md",
+    "templates/envio.md",
+    "content/Músicas/Faded.md",
+    "content/Autores/Alan Walker.md",
+    "content/Músicas/Everytime We Touch.md",
+    "content/Autores/Cascada.md",
+    "content/Músicas/Floor of Lava.md",
+    "content/Músicas/Ice.md",
     "content/Músicas/Faster n Harder.md",
     "content/Autores/6arelyhuman.md",
-    "templates/envio.md",
     "content/Autores/Vane Lily.md",
     "content/Autores/Ghost and Pals.md",
     "content/Músicas/End-World Normopathy.md",
@@ -184,17 +195,6 @@
     "content/Autores/Tamika.md",
     "content/Músicas/DJ Whore.md",
     "content/Autores/S3rl.md",
-    "content/Jogadores/Octavus.md",
-    "content/Músicas/Dance Monkey.md",
-    "content/Autores/Tones And I.md",
-    "content/Músicas/Daisy Bell.md",
-    "content/Autores/Harry Dacre.md",
-    "content/Autores/IBM 7094.md",
-    "content/Jogadores/Flowers.md",
-    "content/Músicas/Colours.md",
-    "content/Autores/Calvin Harris.md",
-    "content/Músicas/Close To The Sun.md",
-    "content/Autores/TheFatRat.md",
     "Jogadores"
   ]
 }

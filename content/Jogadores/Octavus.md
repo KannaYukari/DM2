@@ -21,3 +21,18 @@
 
 - **Música:** [Dance Monkey](../Músicas/Dance%20Monkey.md)
 - **Autores:** [Tones And I](../Autores/Tones%20And%20I.md)
+## E - Everytime We Touch
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4G6QDNC4jPs?si=EsmObREE6G-C4D2t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Everytime We Touch](../Músicas/Everytime%20We%20Touch.md)
+- **Autores:** [Cascada](../Autores/Cascada.md)
+## F - Faded
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qdpXxGPqW-Y?si=dhyNsynZHknGIEBZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Faded](../Músicas/Faded.md)
+- **Autores:** [Alan Walker](../Autores/Alan%20Walker.md)
+## G - Go
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LO2RPDZkY88?si=v9qjGjfEPZ26tANu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Go](../Músicas/Go.md)
+- **Autores:** [The Chemical Brothers](../Autores/The%20Chemical%20Brothers.md)
