@@ -10,3 +10,8 @@
 
 - **Música:** [Bouncing Burnice](../Músicas/Bouncing%20Burnice.md)
 - **Autores:** [Zenless Zone Zero](../Autores/Zenless%20Zone%20Zero.md)
+## C - Clarity
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IxxstCcJlsc?si=dLer8DAKwVUkXKUZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Clarity](../Músicas/Clarity.md)
+- **Autores:** [Zedd](../Autores/Zedd.md) ft. [Foxes](../Autores/Foxes.md)
