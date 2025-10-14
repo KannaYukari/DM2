@@ -13,5 +13,5 @@
 ## C - Colours
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c_i1q2XSf5c?si=6HsQ9BlmNzSo8sCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [Colours](Colours)
-- **Autores:** [Calvin Harris](Calvin%20Harris)
+- **Música:** [Colours](../Músicas/Colours.md)
+- **Autores:** [Calvin Harris](../Autores/Calvin%20Harris.md)
