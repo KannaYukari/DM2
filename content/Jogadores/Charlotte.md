@@ -21,3 +21,8 @@
 
 - **Música:** [DJ Whore](../Músicas/DJ%20Whore.md)
 - **Autores:** [S3rl](../Autores/S3rl.md) ft. [Tamika](../Autores/Tamika.md)
+## E - End-World Normopathy
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d07_ujbDO3c?si=ARxxSt7Ezh9vZfNa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [End-World Normopathy](../Músicas/End-World%20Normopathy.md)
+- **Autores:** [Ghost and Pals](../Autores/Ghost%20and%20Pals.md) ft. [Vane Lily](../Autores/Vane%20Lily.md)
