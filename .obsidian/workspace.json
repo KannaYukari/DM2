@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Jogadores/Charlotte.md",
+                "file": "content/Jogadores/Octavus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Charlotte"
+              "title": "Octavus"
             }
           }
         ]
@@ -167,16 +167,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea1ee029bfa1176f",
+  "active": "c5ff5e1ec4d9b976",
   "lastOpenFiles": [
+    "content/Jogadores/Kanna.md",
+    "Floor of Lava.md",
+    "Ice.md",
+    "content/Jogadores/Charlotte.md",
+    "content/Músicas/Faster n Harder.md",
+    "content/Autores/6arelyhuman.md",
+    "templates/envio.md",
     "content/Autores/Vane Lily.md",
     "content/Autores/Ghost and Pals.md",
     "content/Músicas/End-World Normopathy.md",
-    "content/Jogadores/Charlotte.md",
-    "content/Jogadores/Kanna.md",
     "content/Músicas/ECHO.md",
     "content/Autores/Crusher.md",
-    "templates/envio.md",
     "content/Autores/Tamika.md",
     "content/Músicas/DJ Whore.md",
     "content/Autores/S3rl.md",
@@ -191,10 +195,6 @@
     "content/Autores/Calvin Harris.md",
     "content/Músicas/Close To The Sun.md",
     "content/Autores/TheFatRat.md",
-    "content/Músicas/Beat Dis (7\" US Mix).md",
-    "content/Autores/Foxes.md",
-    "content/Músicas/Clarity.md",
-    "content/Autores/Zedd.md",
     "Jogadores"
   ]
 }
