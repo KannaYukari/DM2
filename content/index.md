@@ -11,8 +11,10 @@ Regras da brincadeira:
 - **A cada semana as músicas tem que ser do gênero respectivo da semana.**
 
 ## Gêneros
-- Semana 1: Eletrônica
-- Semana 2: Rock
+- Semana 1: Eletrônica - Letras: A, B, C, D, E, F, G
+- Semana 2: Rock - Letras: H, I, J, K, L, M, N
+- Semana 3: Rock - Letras: O, P, Q, R, S, T, U
+- Semana 4: animes jogos e filmes - Letras: V, W, X, Y, Z
 
 ## Jogadores
 - [Kanna](Jogadores/Kanna.md)
